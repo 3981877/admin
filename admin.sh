@@ -3,10 +3,13 @@
 while true; do
 clear
 
-echo -e "\033[96m_  _ ____  _ _ _    _ ____ _  _ "
-echo "|_/  |___  | | |    | |  | |\ | "
-echo "| \_ |___ _| | |___ | |__| | \| "
-echo "                                "
+echo "                                                                 "
+echo "H   H  EEEEE  L      L         OOO   W   W  OOO  RRRR  L     DDDD"
+echo "H   H  E      L      L      O     O  W W W O   O R   R L     D   D"
+echo "HHHHH  EEEE   L      L      O     O  W W  O   O RRRR  L     D   D"
+echo "H   H  E      L      L      O     O  W W  O   O R  R  L     D   D"
+echo "H   H  EEEEE  LLLLL  LLLLL   OOO    W W    OOO  R   R LLLL  DDDD"
+echo "                                                                "
 echo -e "\033[96mVPS管理员一键脚本工具 v1.8.9 （支持Ubuntu，Debian，Centos系统）\033[0m"
 echo "------------------------"
 echo "1. 系统信息查询"
